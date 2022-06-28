@@ -1,2 +1,2 @@
 # welcome
-welcome projecy
+welcome project
